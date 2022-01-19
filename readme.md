@@ -8,5 +8,5 @@ We investigate the most popular directors, production companies, and genres. We 
 
 ##
 <p align="center">
-  <img src="top-film-genres.PNG" width = "800" />
+  <img src="top-film-genres.PNG" width = "600" />
 </p>
