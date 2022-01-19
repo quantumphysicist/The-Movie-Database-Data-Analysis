@@ -10,13 +10,21 @@ We analysed the TMDB database for movies released between 1960 and 2015.
 
 The most prolific director is Woody Allen, and the production company that has produced the most movies is Paramount Pictures. The most common genre is "Drama", and the least common genre is "Western".  
 
+<p align="center">
+  <img src="top-film-genres.PNG" width = "700" />
+</p>
+
 For our numerical analysis, we removed those movies which had no recorded budget or revenue.  
 
 On visual inspection, the following two variables appear to be positively correlated with increased revenue: Popularity & Budget (as expected).   
 
-Both visual inspection and an R value close to zero indicate only a very weak correlation of the revenue with average vote (unexpected).   
-
-##
 <p align="center">
-  <img src="top-film-genres.PNG" width = "700" />
+  <img src="revenue_vs_popularity.PNG" width = "700" />
 </p>
+
+<p align="center">
+  <img src="revenue_vs_budget.PNG" width = "700" />
+</p>
+
+
+Both visual inspection and an R value close to zero indicate only a very weak correlation of the revenue with average vote (unexpected).   
