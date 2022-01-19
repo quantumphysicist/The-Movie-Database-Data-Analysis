@@ -6,7 +6,7 @@ We investigate the most popular directors, production companies, and genres. We 
 
 
 
-## Screenshot of web app
+##
 <p align="center">
   <img src="top-film-genres.PNG" />
 </p>
